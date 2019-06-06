@@ -4,7 +4,7 @@ In Order to skip the manual process of cleaning the Temporary and Prefetch Files
 
 If you double click the BAT file, it will run the script.
 
-If you want to make it run by default at start-up, then follow the steps below.
+If you want to make it run by default at every start-up, then follow the steps below.
 
 1. Download the CleanTemp.BAT file from the repository.
 2. Open Windows Run or WIN+R, type "shell:startup" without quotes.
